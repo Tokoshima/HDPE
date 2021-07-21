@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="505.0" prefWidth="602.0" style="-fx-background-color: #2F3136;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text fill="#28a88c" layoutX="14.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="hdpeElements" textAlignment="CENTER" wrappingWidth="589.5384521484375">
+         <font>
+            <Font name="Droid Sans Bold" size="43.0" />
+         </font>
+      </Text>
+      <Button alignment="CENTER" blendMode="DIFFERENCE" layoutX="13.0" layoutY="449.0" mnemonicParsing="false" prefHeight="23.0" prefWidth="576.0" style="-fx-background-color: #3BA55D;" text="Calculate" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Droid Sans Bold" size="22.0" />
+         </font>
+      </Button>
+
+   </children>
+</AnchorPane>
